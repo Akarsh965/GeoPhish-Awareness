@@ -44,11 +44,10 @@ This project is intended solely for:
 
 ## Author
 
-Nitin Dhurve
+Akarsh Chib
 
 Cybersecurity Student | Security Research Enthusiast
 
-GitHub: @nitinscodehub
 
 ---
 
